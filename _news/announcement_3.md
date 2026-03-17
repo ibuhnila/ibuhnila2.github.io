@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: September 2025
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I helped organizing the HK 3.0 Workshop "Language, Cognition, and Society: A Data-Driven Lifespan Perspective", September 11-12, 2025, Center for Data Science in Humanities, Chosun University, Gwangju, South Korea. https://sites.google.com/view/chosunhk3-workshop-2025/home 

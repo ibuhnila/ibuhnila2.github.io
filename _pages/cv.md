@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-cv_pdf: xingrui_cv.pdf # you can also use external links here
-description: Rui's CV
+cv_pdf: # you can also use external links here
+description: Ioana Buhnila's CV
 # toc:
 #   sidebar: left
 ---

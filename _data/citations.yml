@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-23'
 papers:
   JZEnn_AAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -17,6 +17,10 @@ papers:
     citations: 0
     title: "Paul Cornea: dou\u0103 ipostaze contemporane ale lectorului"
     year: '2014'
+  JZEnn_AAAAAJ:GnPB-g6toBAC:
+    citations: 0
+    title: "Actes de la journ\xE9e d\u2019\xE9tude sur l\u2019utilisation des LLM \xE0 l\u2019h\xF4pital"
+    year: '2026'
   JZEnn_AAAAAJ:HDshCWvjkbEC:
     citations: 0
     title: 'ATILF at NTCIR-18 RadNLP 2024 Shared Task: With less radiology reports, comes less performance'
